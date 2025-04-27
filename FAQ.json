@@ -1,0 +1,461 @@
+{
+    "FAQs": [
+        {
+          "question": "How do I reset my account password?",
+          "answer": "You can reset your password by clicking on the Account section. From there, select the option menu, and you'll find the Password Change option."
+        },
+        {
+          "question": "I forgot my password, what should I do?",
+          "answer": "You can reset your password from the Account section by selecting the option menu and choosing the Password Change option."
+        },
+        {
+          "question": "Where can I find how many flights I have booked?",
+          "answer": "You can view your booked flights from the Account section located at the top middle section."
+        },
+        {
+          "question": "How do I see my previous flight bookings?",
+          "answer": "You can view your flight history by visiting the Account section on the top of the screen."
+        },
+        {
+          "question": "Where can I check the refund policy for my flight?",
+          "answer": "You can view the refund policy for a flight once you've added the flight to your cart."
+        },
+        {
+          "question": "Is there a way to see refund rules before booking?",
+          "answer": "Yes, refund policies are visible once you successfully add a flight to the cart."
+        },
+        {
+          "question": "How can I check the commission for a flight booking?",
+          "answer": "To view the commission of a flight, simply click on the 'More Info' button after adding the flight to your cart."
+        },
+        {
+          "question": "Where can I find commission details for a booking?",
+          "answer": "Commission details are visible after adding the flight to your cart and clicking on the 'More Info' button."
+        },
+        {
+          "question": "I'm facing issues selecting a flight. What should I do?",
+          "answer": "If you're facing any issue while booking, you can either report it on the Feedback page or contact our Customer Support team."
+        },
+        {
+          "question": "Flight selection page is not working. Help!",
+          "answer": "If you're experiencing issues while selecting a flight, please report it through the Feedback page or contact our Customer Support."
+        },
+        {
+          "question": "Why are fewer flights showing up on the booking page?",
+          "answer": "Due to continuous updates in flight availability, sudden changes may occur causing fewer flights to appear."
+        },
+        {
+          "question": "Flights are missing on the booking page. What happened?",
+          "answer": "Flight listings can vary due to ongoing updates and changes in flight availability."
+        },
+        {
+          "question": "Why can't I book an NDC flight?",
+          "answer": "You might not be able to book NDC flights because the NDC servers are experiencing heavy traffic. Try again after some time or contact Support."
+        },
+        {
+          "question": "NDC flight is not showing up. What can I do?",
+          "answer": "It’s likely due to server rush. Please try after some time or reach out to our support team for assistance."
+        },
+        {
+          "question": "How can I access my Dashboard?",
+          "answer": "To navigate to the Dashboard, click on your Username, then select 'Dashboard' from the dropdown menu."
+        },
+        {
+          "question": "Where is the Dashboard option?",
+          "answer": "Click your Username at the top, a dropdown will appear. Select 'Dashboard' to navigate."
+        },
+        {
+          "question": "How do I change the language setting?",
+          "answer": "To change the language, click the top right button next to the username and select your preferred language."
+        },
+        {
+          "question": "Can I switch the language on the booking site?",
+          "answer": "Yes, you can switch languages from the top right button near your username."
+        },
+        {
+          "question": "How can I book flights faster?",
+          "answer": "To speed up booking, use the 'Search with AI' option available on the booking page."
+        },
+        {
+          "question": "Tips for quicker flight booking?",
+          "answer": "Use the 'Search with AI' feature to increase booking efficiency and find flights faster."
+        },
+        {
+          "question": "One-way flights are not showing. Why?",
+          "answer": "This can happen if the selected flight is incompatible or no one-way flights are available at the moment. Please try again later."
+        },
+        {
+          "question": "I can't see one-way flight options. What should I do?",
+          "answer": "Check your departure and arrival airports and the selected date. If still unavailable, try again after some time."
+        },
+        {
+          "question": "How do I add a layover between flights?",
+          "answer": "To add a layover, either search using text format with Smart Search AI or use the 'Advance Options' button on the Manual Search page."
+        },
+        {
+          "question": "Is it possible to customize layovers?",
+          "answer": "Yes! Search your flight mentioning layover airports via Smart Search AI, or manually use the 'Advance Options' while searching."
+        },
+        {
+          "question": "How can I update my personal details like email?",
+          "answer": "To update personal details, click your Username > select 'Dashboard' from the dropdown > Edit your information."
+        },
+        {
+          "question": "Where to update my phone number or email?",
+          "answer": "Click on your Username, go to 'Dashboard', and edit your details as needed."
+        },
+        {
+          "question": "Can I book multiple flights together?",
+          "answer": "Yes, you can add multiple flights to the cart and book them one by one."
+        },
+        {
+          "question": "Is it possible to book several flights at once?",
+          "answer": "Yes, add multiple flights to your cart and complete the booking one after the other."
+        },
+        {
+          "question": "How do I apply a promo code?",
+          "answer": "You can apply a promo code during manual search. Two highlighted red buttons on the first page will help you avail discounts."
+        },
+        {
+          "question": "Where do I enter a discount coupon?",
+          "answer": "You can enter promo codes during the manual search process by clicking on the highlighted red buttons."
+        },
+        {
+          "question": "I didn’t get a booking confirmation. What now?",
+          "answer": "It might take some time for confirmation. If still pending, please contact Customer Support."
+        },
+        {
+          "question": "Booking pending for too long. Help!",
+          "answer": "If your booking confirmation is delayed, reach out to Customer Support for immediate assistance."
+        },
+        {
+          "question": "How can I check my flight status?",
+          "answer": "To view your flight status, click on the 'My Booking' option at the top bar."
+        },
+        {
+          "question": "Where to track flight schedule updates?",
+          "answer": "Flight status and schedule updates are available under the 'My Booking' section."
+        },
+        {
+          "question": "What happens if my flight is canceled?",
+          "answer": "If your flight gets canceled, the refund process will initiate if it was a refundable booking. Check 'My Booking' to confirm refund eligibility."
+        },
+        {
+          "question": "Flight got canceled. Will I get a refund?",
+          "answer": "Refunds are initiated for refundable flights if canceled. Confirm if your flight was refundable under 'My Booking'."
+        },
+        {
+           "question": "Can I modify my flight after booking?",
+           "answer": "Yes, if the airline allows it. You can request modifications by contacting Customer Support or checking 'My Bookings'."
+        },
+        {
+          "question": "How do I cancel my flight?",
+          "answer": "You can cancel your flight by navigating to 'My Bookings' and selecting the cancel option if available."
+        },
+        {
+            "question": "Will I get full refund on cancellation?",
+            "answer": "Full refunds are only applicable for refundable flights. Check your flight type under 'My Bookings'."
+        },
+        {
+            "question": "Can I change the passenger name after booking?",
+            "answer": "Name changes depend on airline policies. Please contact our Customer Support for further assistance."
+        },
+        {
+            "question": "How do I add extra baggage to my booking?",
+            "answer": "After booking, visit 'My Bookings' and select the option to add extra baggage if the airline supports it."
+        },
+        {
+            "question": "Is travel insurance included?",
+            "answer": "Travel insurance is optional. You can add it during the booking process when available."
+        },
+        {
+            "question": "How to add insurance to my flight?",
+            "answer": "You can add travel insurance while booking your flight. Look for the 'Add Insurance' option before final payment."
+        },
+        {
+            "question": "Can I choose seats during booking?",
+            "answer": "Seat selection is possible for most airlines. You'll find the option while booking or under 'My Bookings' post-booking."
+        },
+        {
+            "question": "Is there a way to select my preferred seat?",
+            "answer": "Yes, during booking or via 'My Bookings' if the airline allows it."
+        },
+        {
+            "question": "How can I book flights for multiple passengers?",
+            "answer": "During flight search, simply add more passengers in the 'Add Passengers' option before searching flights."
+        },
+        {
+            "question": "Is group booking available?",
+            "answer": "Yes, you can book flights for multiple people at once. Add all passengers' details during booking."
+        },
+        {
+            "question": "Can I book round-trip tickets?",
+            "answer": "Yes! You can select 'Round Trip' option during flight search."
+        },
+        {
+            "question": "How to book a round trip?",
+            "answer": "Choose the 'Round Trip' option at the start of your flight search and enter both departure and return details."
+        },
+        {
+            "question": "Do you offer last-minute bookings?",
+            "answer": "Yes, last-minute bookings are available based on airline availability. Use 'Search with AI' for quick booking."
+        },
+        {
+            "question": "Are there discounts on last-minute flights?",
+            "answer": "Sometimes! You can find last-minute deals by using promo codes during the manual search process."
+        },
+        {
+            "question": "Where can I find flight deals and offers?",
+            "answer": "Flight deals and offers are highlighted on the homepage or during manual search. Keep an eye for promo banners!"
+        },
+        {
+            "question": "How do I find cheaper flights?",
+            "answer": "Use flexible dates while searching and check our 'Deals' section available during manual search."
+        },
+        {
+            "question": "How to get notifications for flight discounts?",
+            "answer": "Turn on notification alerts in your Account Settings to receive latest discounts and offers."
+        },
+        {
+            "question": "Is my payment secure on the platform?",
+            "answer": "Yes, we use encrypted and secure payment gateways to ensure your transactions are safe."
+        },
+        {
+            "question": "What payment methods are accepted?",
+            "answer": "We accept major Credit Cards, Debit Cards, Net Banking, and Wallets depending on your country."
+        },
+        {
+            "question": "Can I pay in installments?",
+            "answer": "Currently, installment payment options depend on your card provider. Check during checkout."
+        },
+        {
+            "question": "Will I get an invoice after booking?",
+            "answer": "Yes, you will automatically receive an invoice on your registered email after booking confirmation."
+        },
+        {
+            "question": "How can I download my flight ticket?",
+            "answer": "You can download your ticket from the 'My Bookings' section once the booking is confirmed."
+        },
+        {
+            "question": "Can I change my destination after booking?",
+            "answer": "Changing destination after booking is subject to airline rules. Contact Customer Support for help."
+        },
+        {
+            "question": "Can I add hotel booking along with flights?",
+            "answer": "Currently, we specialize in flights only. Stay tuned for hotel booking services in the future!"
+        },
+        {
+            "question": "Can I check baggage policy before booking?",
+            "answer": "Yes, baggage allowance is mentioned under the 'More Info' button when you add a flight to your cart."
+        },
+        {
+            "question": "Can I upgrade my class after booking?",
+            "answer": "Class upgrades depend on airline policies. Contact Customer Support to know if your flight is eligible."
+        },
+        {
+            "question": "Is customer support available 24x7?",
+            "answer": "Our Customer Support is available 24x7 to assist you with any queries."
+        },
+        {
+            "question": "Can I request a special meal for my flight?",
+            "answer": "Yes, you can request a special meal during booking if the airline offers it, or update via 'My Bookings'."
+        },
+        {
+            "question": "Where to enter my frequent flyer number?",
+            "answer": "You can enter your frequent flyer number during passenger information entry in the booking process."
+        },
+        {
+            "question": "Do I earn frequent flyer miles booking here?",
+            "answer": "Yes, if you add your frequent flyer number during booking, miles will be credited as per airline policy."
+        },
+        {
+            "question": "Can I save traveler profiles for faster booking?",
+            "answer": "Yes, you can save traveler profiles under 'Account Settings' for quick future bookings."
+        },
+        {
+            "question": "Do you offer student discounts?",
+            "answer": "Student discounts depend on airlines. Look for special fare options during search or contact Support."
+        },
+        {
+            "question": "Are there senior citizen discounts?",
+            "answer": "Some airlines offer senior citizen discounts. Check under 'More Info' after adding flight to your cart."
+        },
+        {
+            "question": "Can I get GST invoice for business travel?",
+            "answer": "Yes, provide your GST details during booking to receive a GST-compliant invoice."
+        },
+        {
+            "question": "Can I resend booking confirmation email?",
+            "answer": "Yes, go to 'My Bookings' and click on 'Resend Email' option if you haven't received it."
+        },
+        {
+            "question": "Is there a mobile app available for booking?",
+            "answer": "Yes, you can book flights easily via our mobile app available on Android and iOS stores."
+        },
+        {
+            "question": "What if I miss my flight?",
+            "answer": "If you miss your flight, airline rules will apply. Contact Customer Support immediately for assistance."
+        },
+        {
+            "question": "How do I contact Customer Support?",
+            "answer": "Click on the 'Help' section or use the 'Contact Support' button available at the bottom of every page."
+        },
+        {
+            "question": "How do I change my travel date after booking?",
+            "answer": "You can change your travel date through 'My Bookings', subject to airline policies and change fees."
+        },
+        {
+            "question": "What should I do if the website crashes during payment?",
+            "answer": "Don't worry! Check your email for booking confirmation. If none received, retry booking or contact support."
+        },
+        {
+            "question": "How can I apply corporate discounts during booking?",
+            "answer": "You can apply corporate discounts via the 'Promo Code' option on the manual search page."
+        },
+        {
+            "question": "Can I request wheelchair assistance?",
+            "answer": "Yes, during booking you can request special assistance or mention it to Customer Support post-booking."
+        },
+        {
+            "question": "How do I rebook a canceled flight?",
+            "answer": "You can rebook a canceled flight via 'My Bookings' or search for a new flight manually."
+        },
+        {
+            "question": "Can I make partial payment for a booking?",
+            "answer": "Currently, partial payment is not supported. Full payment is needed to confirm your booking."
+        },
+        {
+            "question": "How to change my billing address for a booking?",
+            "answer": "You can update your billing address under 'Account Settings' before finalizing payment."
+        },
+        {
+            "question": "Is there an option to select multi-city flights?",
+            "answer": "Yes! Select 'Multi-City' option on the search page and add multiple legs to your trip."
+        },
+        {
+            "question": "How do I check layover durations during booking?",
+            "answer": "Layover duration details are shown in the flight options once you view 'More Info' after adding to cart."
+        },
+        {
+            "question": "What happens if there is a schedule change in my flight?",
+            "answer": "You will be notified by email and SMS. Check 'My Bookings' for updated timings."
+        },
+        {
+            "question": "Can I cancel only one leg of a round-trip booking?",
+            "answer": "Depends on the airline policy. Contact Customer Support to explore options."
+        },
+        {
+            "question": "How do I know if a flight is refundable before booking?",
+            "answer": "Refundability is mentioned under 'More Info' for each flight once you add it to your cart."
+        },
+        {
+            "question": "What documents are needed during airport check-in?",
+            "answer": "You need a valid government-issued ID and your flight ticket (print or digital)."
+        },
+        {
+            "question": "Can I receive SMS updates for my flight?",
+            "answer": "Yes, ensure your phone number is updated correctly during booking for SMS notifications."
+        },
+        {
+            "question": "What if I enter wrong passenger information?",
+            "answer": "Immediately contact Customer Support. Corrections depend on airline rules and time left before flight."
+        },
+        {
+            "question": "Can I add a pet to my booking?",
+            "answer": "Pet policies vary by airline. Contact Customer Support before booking to assist you."
+        },
+        {
+            "question": "How do I redeem loyalty points?",
+            "answer": "Currently, loyalty point redemption is supported through select airlines. Add your membership number during booking."
+        },
+        {
+            "question": "Can I get a refund if I miss my connecting flight?",
+            "answer": "If flights are booked under one PNR and delay is airline's fault, refund or rebooking may be offered."
+        },
+        {
+            "question": "Is visa assistance provided?",
+            "answer": "Visa services are not directly provided. However, we offer guidance via Support team."
+        },
+        {
+            "question": "Can I reschedule my flight free of cost?",
+            "answer": "Free rescheduling depends on the airline's fare rules. Check 'More Info' under your booking."
+        },
+        {
+            "question": "How early should I arrive at the airport?",
+            "answer": "It’s recommended to arrive at least 2 hours before a domestic flight and 3 hours before an international flight."
+        },
+        {
+            "question": "Can I book a flight without creating an account?",
+            "answer": "No, creating an account is mandatory for managing bookings and support."
+        },
+        {
+            "question": "How can I reset my booking password if forgotten?",
+            "answer": "Click on 'Forgot Password' on the login page and follow the steps to reset it."
+        },
+        {
+            "question": "Can I get GST input tax credit on flight booking?",
+            "answer": "Yes, if you provide your valid GST number during the booking process."
+        },
+        {
+            "question": "Do you provide invoice for canceled bookings?",
+            "answer": "Yes, refund and cancellation invoices are available under 'My Bookings'."
+        },
+        {
+            "question": "What if I selected wrong travel class (Economy/Premium)?",
+            "answer": "You can attempt modification if your ticket is flexible or contact Customer Support immediately."
+        },
+        {
+            "question": "What should I do if my payment failed?",
+            "answer": "Retry payment or try a different method. Ensure funds are available and card details are correct."
+        },
+        {
+            "question": "How to get faster flight check-in?",
+            "answer": "Many airlines allow web check-in via their own websites. We recommend doing it 24 hours prior."
+        },
+        {
+            "question": "Can I pay using international cards?",
+            "answer": "Yes, major international Visa, Mastercard, Amex cards are accepted."
+        },
+        {
+            "question": "How do I know my booking is confirmed?",
+            "answer": "You will receive an email and SMS confirmation. You can also check under 'My Bookings'."
+        },
+        {
+            "question": "What happens if I overpay by mistake?",
+            "answer": "If any duplicate payment happens, our billing team automatically processes a refund within 5-7 working days."
+        },
+        {
+            "question": "Can I view fare breakup before paying?",
+            "answer": "Yes, a detailed fare breakdown is shown before you proceed to the payment page."
+        },
+        {
+            "question": "Can I book a child ticket without an adult?",
+            "answer": "No, most airlines require a child under 12 to be accompanied by an adult during booking."
+        },
+        {
+            "question": "How to check refund status?",
+            "answer": "Check refund status under 'My Bookings' or reach out to Customer Support for an update."
+        },
+        {
+            "question": "Can I use multiple promo codes for a single booking?",
+            "answer": "No, only one promo code can be applied per booking."
+        },
+        {
+            "question": "How to delete my account?",
+            "answer": "Please reach out to Customer Support to request account deletion after identity verification."
+        },
+        {
+            "question": "Can I transfer my flight ticket to another person?",
+            "answer": "Most airlines do not allow transfer of tickets. Contact Support to check if changes are possible."
+        },
+        {
+            "question": "Will I be notified if my flight is delayed?",
+            "answer": "Yes, we automatically send SMS and email alerts for delays or schedule changes."
+        },
+        {
+            "question": "Can I get a duplicate ticket if I lose mine?",
+            "answer": "Yes, you can download your ticket again from 'My Bookings' anytime."
+        }    
+      ]      
+  }
+  

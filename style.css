@@ -1,0 +1,36 @@
+/* style.css */
+
+/* page background */
+.stApp {
+    background-color: #00BFFF;
+  }
+  
+  /* user bubble */
+  .user-bubble {
+    background-color: #00FFFF;
+    border-radius: 15px;
+    padding: 10px;
+    animation: slideInLeft 0.5s ease-in-out;
+  }
+  
+  /* bot bubble */
+  .bot-bubble {
+    background-color: #00BFFF;
+    border-radius: 15px;
+    padding: 10px;
+    animation: slideInRight 0.5s ease-in-out;
+  }
+  
+  /* keyframes */
+  @keyframes slideInLeft {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes slideInRight {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(0); }
+  }
+  
+  /* you can also import animate.css for even more effects */
+  @import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css');
+  
